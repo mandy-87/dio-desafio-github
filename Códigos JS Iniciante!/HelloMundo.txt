@@ -1,0 +1,14 @@
+var nome
+
+nome = prompt('Say your name');
+
+//alert('Meu primeiro programa')
+
+console.log('Hello World');
+
+console.log('Me livrei da maldição');
+
+alert('Nome recebido: ' + nome); 
+
+alert('Meu primeiro programa')
+console.log('Olá mundo!')
